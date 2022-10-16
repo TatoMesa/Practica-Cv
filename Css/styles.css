@@ -1,0 +1,118 @@
+.Recuadro_imagen{
+    position: absolute;
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+    background: #E6E6E6;
+    align-content: center;
+}
+
+.Imagen{
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;
+}
+
+.Recuadro_titulo{
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+    background: #C4C4C4;
+
+}
+
+.Titulo_Principal{
+    font-size: 35px;
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 8px;
+    text-align: center;
+    Line-height: 50%;
+    width: 1440px;
+    height: 29.87px;
+    position: absolute;
+    color: #005677;
+        
+}
+
+h2{
+    background: #C4C4C4;   
+    font-size: 20px;
+    letter-spacing: 4px;     
+    font-family: "Times New Roman";
+    color: #005677;
+    width: 1440px;
+    position: absolute;
+    /*Line-height: 17px;
+    Line-height: 85%;*/
+    
+}
+
+
+figure{
+    width: 1440px;
+    height: 100px;
+    Font: "Times New Roman";
+    Line-height: 30px;
+} 
+    
+
+#DatosPersonales h2{
+    top: 360px;
+    
+}
+.Datos_Personales{
+    font-style: italic ;
+    top: 400px;
+    position: absolute;
+    
+}
+
+#FormacionAcademica h2{
+    top:500px;
+}
+.Formacion_Academica{
+    top: 540px;
+    position: absolute;
+    left:30px;
+}
+
+#ExperienciaLaboral h2{
+    top:740px;
+}
+.Experiencia_Laboral{
+    top: 780px;
+    position: absolute;
+    left:30px;
+}
+
+.TextoTabulado 
+{
+    left: 200px;
+    margin-left: 80px;
+    
+}
+
+.Footer{
+    left: 0px;
+    top: 880px;
+    width: 1440px;
+    background: #005677;
+    font-size: 20px;
+    font-family: "Times New Roman";
+    color:#FFFFFF;
+    letter-spacing: 8px;
+    text-align: center;
+    height: 37px;
+    Line-height:37px ;
+    position: absolute;
+}
+
+
+
